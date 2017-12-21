@@ -1,0 +1,13 @@
+source leaprc.protein.ff14SB
+source leaprc.water.spce
+source leaprc.gaff
+XXX=loadmol2 XXX.mol2
+NNN=loadmol2 NNN.mol2
+loadamberparams ligand.frcmod
+a=loadpdb twoprotein_sort.pdb
+bond a.2.C a.3.N23
+bond a.5.C a.6.N23
+setbox a vdw
+savepdb a TTT-YYY_wat.pdb
+saveamberparm a TTT-YYY_wat.prmtop TTT-YYY_wat.inpcrd
+quit

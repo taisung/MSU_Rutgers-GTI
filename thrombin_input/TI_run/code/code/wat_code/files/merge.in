@@ -1,0 +1,6 @@
+loadRestrt TTT-YYY_wat.inpcrd
+setOverwrite True
+tiMerge :1-3 :4-6 :3 :6
+outparm TTT-YYY_merged.prmtop TTT-YYY_merged.inpcrd
+outpdb TTT-YYY_merged.pdb
+quit

@@ -1,0 +1,753 @@
+{
+"I6E": {
+"I6A": {
+"I6E has uniq": [
+"F1"
+]
+}, 
+"I6B": {
+"I6E has uniq": [
+"F1"
+]
+}, 
+"I5": {
+"I6E has uniq": [
+"CL1", 
+"F1"
+]
+}, 
+"I7A": {
+"I6E has uniq": [
+"CL1", 
+"F1"
+]
+}, 
+"I1D": {
+"I6E has uniq": [
+"CL1", 
+"F1"
+]
+}, 
+"I3B": {
+"I6E has uniq": [
+"CL1", 
+"F1"
+]
+}, 
+"I3A": {
+"I6E has uniq": [
+"CL1", 
+"F1"
+]
+}, 
+"I1A": {
+"I6E has uniq": [
+"CL1"
+]
+}, 
+"I1C": {
+"I6E has uniq": [
+"CL1", 
+"F1"
+]
+}, 
+"I1B": {
+"I6E has uniq": [
+"F1"
+]
+}
+}, 
+"I6A": {
+"I6E": {
+"I6A has uniq": [
+"CL2"
+]
+}, 
+"I7A": {
+"I6A has uniq": [
+"CL2", 
+"CL1"
+]
+}, 
+"I6B": {
+"I6A has uniq": [
+"CL2"
+]
+}, 
+"I5": {
+"I6A has uniq": [
+"CL2", 
+"CL1"
+]
+}, 
+"I1D": {
+"I6A has uniq": [
+"CL2", 
+"CL1"
+]
+}, 
+"I3B": {
+"I6A has uniq": [
+"CL2", 
+"CL1"
+]
+}, 
+"I3A": {
+"I6A has uniq": [
+"CL2", 
+"CL1"
+]
+}, 
+"I1A": {
+"I6A has uniq": [
+"CL2", 
+"CL1"
+]
+}, 
+"I1C": {
+"I6A has uniq": [
+"CL2", 
+"CL1"
+]
+}, 
+"I1B": {
+"I6A has uniq": [
+"CL2"
+]
+}
+}, 
+"I6B": {
+"I6E": {
+"I6B has uniq": [
+"H4", 
+"H6", 
+"C13", 
+"H7"
+]
+}, 
+"I6A": {
+"I6B has uniq": [
+"H4", 
+"H6", 
+"C13", 
+"H7"
+]
+}, 
+"I7A": {
+"I6B has uniq": [
+"CL1"
+]
+}, 
+"I5": {
+"I6B has uniq": [
+"CL1", 
+"H4", 
+"H6", 
+"C13", 
+"H7"
+]
+}, 
+"I1D": {
+"I6B has uniq": [
+"CL1", 
+"H4", 
+"H6", 
+"C13", 
+"H7"
+]
+}, 
+"I3B": {
+"I6B has uniq": [
+"CL1"
+]
+}, 
+"I3A": {
+"I6B has uniq": [
+"CL1"
+]
+}, 
+"I1A": {
+"I6B has uniq": [
+"CL1", 
+"H4", 
+"H6", 
+"C13", 
+"H7"
+]
+}, 
+"I1C": {
+"I6B has uniq": [
+"CL1", 
+"H4", 
+"H6", 
+"C13", 
+"H7"
+]
+}, 
+"I1B": {
+"I6B has uniq": [
+"H4", 
+"H6", 
+"C13", 
+"H7"
+]
+}
+}, 
+"I5": {
+"I6E": {
+"I5 has uniq": [
+"H29", 
+"H26"
+]
+}, 
+"I6A": {
+"I5 has uniq": [
+"H29", 
+"H26"
+]
+}, 
+"I6B": {
+"I5 has uniq": [
+"H29", 
+"H26"
+]
+}, 
+"I7A": {
+"I5 has uniq": [
+"H29", 
+"H26"
+]
+}, 
+"I1D": {
+"I5 has uniq": [
+"H29"
+]
+}, 
+"I3B": {
+"I5 has uniq": [
+"H29"
+]
+}, 
+"I3A": {
+"I5 has uniq": [
+"H29"
+]
+}, 
+"I1A": {
+"I5 has uniq": [
+"H29"
+]
+}, 
+"I1C": {
+"I5 has uniq": [
+"H29"
+]
+}, 
+"I1B": {
+"I5 has uniq": [
+"H29"
+]
+}
+}, 
+"I7A": {
+"I6E": {
+"I7A has uniq": [
+"H14", 
+"C13", 
+"H13", 
+"H15", 
+"H4", 
+"C15", 
+"H6", 
+"H7"
+]
+}, 
+"I6A": {
+"I7A has uniq": [
+"H14", 
+"C13", 
+"H13", 
+"H15", 
+"H4", 
+"C15", 
+"H6", 
+"H7"
+]
+}, 
+"I6B": {
+"I7A has uniq": [
+"H14", 
+"H13", 
+"H15", 
+"C15"
+]
+}, 
+"I5": {
+"I7A has uniq": [
+"H14", 
+"C13", 
+"H13", 
+"H15", 
+"H4", 
+"C15", 
+"H6", 
+"H7"
+]
+}, 
+"I1D": {
+"I7A has uniq": [
+"H14", 
+"C13", 
+"H13", 
+"H15", 
+"H4", 
+"C15", 
+"H6", 
+"H7"
+]
+}, 
+"I3B": {
+"I7A has uniq": [
+"H15"
+]
+}, 
+"I3A": {
+"I7A has uniq": [
+"H14", 
+"H13", 
+"H15", 
+"C15"
+]
+}, 
+"I1A": {
+"I7A has uniq": [
+"H14", 
+"C13", 
+"H13", 
+"H15", 
+"H4", 
+"C15", 
+"H6", 
+"H7"
+]
+}, 
+"I1C": {
+"I7A has uniq": [
+"H14", 
+"C13", 
+"H13", 
+"H15", 
+"H4", 
+"C15", 
+"H6", 
+"H7"
+]
+}, 
+"I1B": {
+"I7A has uniq": [
+"H14", 
+"C13", 
+"H13", 
+"H15", 
+"H4", 
+"C15", 
+"H6", 
+"H7"
+]
+}
+}, 
+"I1D": {
+"I6E": {
+"I1D has uniq": [
+"I1", 
+"H26"
+]
+}, 
+"I6A": {
+"I1D has uniq": [
+"I1", 
+"H26"
+]
+}, 
+"I6B": {
+"I1D has uniq": [
+"I1", 
+"H26"
+]
+}, 
+"I5": {
+"I1D has uniq": [
+"I1"
+]
+}, 
+"I7A": {
+"I1D has uniq": [
+"I1", 
+"H26"
+]
+}, 
+"I3B": {
+"I1D has uniq": [
+"I1"
+]
+}, 
+"I3A": {
+"I1D has uniq": [
+"I1"
+]
+}, 
+"I1A": {
+"I1D has uniq": [
+"I1"
+]
+}, 
+"I1C": {
+"I1D has uniq": [
+"I1"
+]
+}, 
+"I1B": {
+"I1D has uniq": [
+"I1"
+]
+}
+}, 
+"I3B": {
+"I6E": {
+"I3B has uniq": [
+"H6", 
+"C15", 
+"H4", 
+"H7", 
+"H13", 
+"C13", 
+"H14", 
+"H26"
+]
+}, 
+"I6A": {
+"I3B has uniq": [
+"H6", 
+"C15", 
+"H4", 
+"H7", 
+"H13", 
+"C13", 
+"H14", 
+"H26"
+]
+}, 
+"I6B": {
+"I3B has uniq": [
+"C15", 
+"H13", 
+"H14", 
+"H26"
+]
+}, 
+"I5": {
+"I3B has uniq": [
+"H6", 
+"C15", 
+"H4", 
+"H7", 
+"H13", 
+"C13", 
+"H14"
+]
+}, 
+"I7A": {
+"I3B has uniq": [
+"H26"
+]
+}, 
+"I1D": {
+"I3B has uniq": [
+"H6", 
+"C15", 
+"H4", 
+"H7", 
+"H13", 
+"C13", 
+"H14"
+]
+}, 
+"I3A": {
+"I3B has uniq": [
+"C15", 
+"H13", 
+"H14"
+]
+}, 
+"I1A": {
+"I3B has uniq": [
+"H6", 
+"C15", 
+"H4", 
+"H7", 
+"H13", 
+"C13", 
+"H14"
+]
+}, 
+"I1C": {
+"I3B has uniq": [
+"H6", 
+"C15", 
+"H4", 
+"H7", 
+"H13", 
+"C13", 
+"H14"
+]
+}, 
+"I1B": {
+"I3B has uniq": [
+"H6", 
+"C15", 
+"H4", 
+"H7", 
+"H13", 
+"C13", 
+"H14"
+]
+}
+}, 
+"I3A": {
+"I6E": {
+"I3A has uniq": [
+"H6", 
+"C13", 
+"H4", 
+"H7", 
+"H26"
+]
+}, 
+"I6A": {
+"I3A has uniq": [
+"H6", 
+"C13", 
+"H4", 
+"H7", 
+"H26"
+]
+}, 
+"I6B": {
+"I3A has uniq": [
+"H26"
+]
+}, 
+"I5": {
+"I3A has uniq": [
+"H6", 
+"C13", 
+"H4", 
+"H7"
+]
+}, 
+"I7A": {
+"I3A has uniq": [
+"H26"
+]
+}, 
+"I1D": {
+"I3A has uniq": [
+"H6", 
+"C13", 
+"H4", 
+"H7"
+]
+}, 
+"I3B": {
+"I3A has uniq": []
+}, 
+"I1A": {
+"I3A has uniq": [
+"H6", 
+"C13", 
+"H4", 
+"H7"
+]
+}, 
+"I1C": {
+"I3A has uniq": [
+"H6", 
+"C13", 
+"H4", 
+"H7"
+]
+}, 
+"I1B": {
+"I3A has uniq": [
+"H6", 
+"C13", 
+"H4", 
+"H7"
+]
+}
+}, 
+"I1A": {
+"I6E": {
+"I1A has uniq": [
+"H26"
+]
+}, 
+"I6A": {
+"I1A has uniq": [
+"F1", 
+"H26"
+]
+}, 
+"I6B": {
+"I1A has uniq": [
+"F1", 
+"H26"
+]
+}, 
+"I5": {
+"I1A has uniq": [
+"F1"
+]
+}, 
+"I1D": {
+"I1A has uniq": [
+"F1"
+]
+}, 
+"I3B": {
+"I1A has uniq": [
+"F1"
+]
+}, 
+"I3A": {
+"I1A has uniq": [
+"F1"
+]
+}, 
+"I7A": {
+"I1A has uniq": [
+"F1", 
+"H26"
+]
+}, 
+"I1C": {
+"I1A has uniq": [
+"F1"
+]
+}, 
+"I1B": {
+"I1A has uniq": [
+"F1"
+]
+}
+}, 
+"I1C": {
+"I6E": {
+"I1C has uniq": [
+"BR1", 
+"H26"
+]
+}, 
+"I6A": {
+"I1C has uniq": [
+"BR1", 
+"H26"
+]
+}, 
+"I6B": {
+"I1C has uniq": [
+"BR1", 
+"H26"
+]
+}, 
+"I5": {
+"I1C has uniq": [
+"BR1"
+]
+}, 
+"I7A": {
+"I1C has uniq": [
+"BR1", 
+"H26"
+]
+}, 
+"I1D": {
+"I1C has uniq": [
+"BR1"
+]
+}, 
+"I3B": {
+"I1C has uniq": [
+"BR1"
+]
+}, 
+"I3A": {
+"I1C has uniq": [
+"BR1"
+]
+}, 
+"I1A": {
+"I1C has uniq": [
+"BR1"
+]
+}, 
+"I1B": {
+"I1C has uniq": [
+"BR1"
+]
+}
+}, 
+"I1B": {
+"I6E": {
+"I1B has uniq": [
+"H26"
+]
+}, 
+"I6A": {
+"I1B has uniq": [
+"H26"
+]
+}, 
+"I6B": {
+"I1B has uniq": [
+"H26"
+]
+}, 
+"I5": {
+"I1B has uniq": [
+"CL1"
+]
+}, 
+"I7A": {
+"I1B has uniq": [
+"CL1", 
+"H26"
+]
+}, 
+"I1D": {
+"I1B has uniq": [
+"CL1"
+]
+}, 
+"I3B": {
+"I1B has uniq": [
+"CL1"
+]
+}, 
+"I3A": {
+"I1B has uniq": [
+"CL1"
+]
+}, 
+"I1A": {
+"I1B has uniq": [
+"CL1"
+]
+}, 
+"I1C": {
+"I1B has uniq": [
+"CL1"
+]
+}
+}
+}
