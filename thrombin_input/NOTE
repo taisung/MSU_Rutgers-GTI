@@ -1,0 +1,11 @@
+1. Ligands and protein pdb from Schrodinger were cleaned up. Ligands were divided into three residues: PHE, PRO, IXX; this was done to enable include only a small part, the IXX part of the ligand into TI region. Though one can spare the effort and treat the ligand as a whole residue.
+
+2. Resp fitting was done for the IXX residue of the ligand (resp.sh).
+
+3. Topologies were generated (note: For all the ligands, I used same frcmod file: ligand.frcmod, so there was no specific diehedral terms for Cl and F, like Cl-CA-CA-CA,etc, those will default to Amber parm10.dat X-CA-CA-X values.)
+
+4. Classic MDs were run. Density was equilibrated at NPT condition for 5ns.
+
+5. Parmed.py was used to generate TI topologies.
+
+6. With TI_mdin files, TI was run using 12 lambda window, 1ns NVT equilibrate, 5ns NVT Sampling, currently without Replica Exchange

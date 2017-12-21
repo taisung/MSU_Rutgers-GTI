@@ -1,0 +1,13 @@
+source leaprc.protein.ff14SB
+source leaprc.water.spce
+source leaprc.gaff
+I6E=loadmol2 I6E.mol2
+loadamberparams ligand.frcmod
+a=loadpdb complex.pdb
+bond a.290.C a.291.N23
+addions a Na+ 0
+addions a Cl- 0
+solvatebox a SPCBOX 5
+savepdb a thrombin_I6E.pdb
+saveamberparm a thrombin_I6E.prmtop thrombin_I6E.inpcrd
+quit

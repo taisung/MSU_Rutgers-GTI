@@ -1,0 +1,127 @@
+REMARK   4      COMPLIES WITH FORMAT V. 3.0, 1-DEC-2006
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+TITLE     1c
+MODEL        1
+HETATM    1  N1  32U H1000      18.257 -13.237  21.705  1.00  0.00           N  
+HETATM    2  C1  32U H1000      18.056 -11.940  21.029  1.00  0.00           C  
+HETATM    3  C14 32U H1000      17.390 -13.778  22.595  1.00  0.00           C  
+HETATM    4  O32 32U H1000      16.392 -13.167  22.980  1.00  0.00           O  
+HETATM    5  C7  32U H1000      16.651 -11.749  20.407  1.00  0.00           C  
+HETATM    6  O22 32U H1000      16.152 -12.641  19.720  1.00  0.00           O  
+HETATM    7  C2  32U H1000      19.152 -11.888  19.955  1.00  0.00           C  
+HETATM    8  C5  32U H1000      17.645 -15.178  23.185  1.00  0.00           C  
+HETATM    9  N23 32U H1000      16.030 -10.589  20.654  1.00  0.00           N  
+HETATM   10  C3  32U H1000      20.253 -12.810  20.442  1.00  0.00           C  
+HETATM   11  N13 32U H1000      16.404 -15.967  23.109  1.00  0.00           N1+
+HETATM   12  C33 32U H1000      18.132 -15.111  24.652  1.00  0.00           C  
+HETATM   13  C24 32U H1000      14.691 -10.212  20.222  1.00  0.00           C  
+HETATM   14  C4  32U H1000      19.537 -13.837  21.311  1.00  0.00           C  
+HETATM   15  C6  32U H1000      19.557 -14.614  24.823  1.00  0.00           C  
+HETATM   16  C25 32U H1000      13.631 -10.347  21.302  1.00  0.00           C  
+HETATM   17  C8  32U H1000      19.801 -13.311  25.295  1.00  0.00           C  
+HETATM   18  C26 32U H1000      12.888 -11.539  21.436  1.00  0.00           C  
+HETATM   19  C9  32U H1000      21.111 -12.818  25.400  1.00  0.00           C  
+HETATM   20  C27 32U H1000      11.880 -11.638  22.417  1.00  0.00           C  
+HETATM   21  C10 32U H1000      22.197 -13.640  25.052  1.00  0.00           C  
+HETATM   22  C28 32U H1000      11.615 -10.549  23.273  1.00  0.00           C  
+HETATM   23  C11 32U H1000      21.967 -14.960  24.618  1.00  0.00           C  
+HETATM   24  C29 32U H1000      12.373  -9.368  23.162  1.00  0.00           C  
+HETATM   25  C12 32U H1000      20.650 -15.447  24.502  1.00  0.00           C  
+HETATM   26  C30 32U H1000      13.371  -9.268  22.173  1.00  0.00           C  
+HETATM   27 BR1  32U H1000      12.095  -7.925  24.375  1.00  0.00          Br  
+HETATM   28  H1  32U H1000      18.237 -11.157  21.765  1.00  0.00           H  
+HETATM   29  H21 32U H1000      18.780 -12.242  18.992  1.00  0.00           H  
+HETATM   30  H22 32U H1000      19.526 -10.880  19.818  1.00  0.00           H  
+HETATM   31  H5  32U H1000      18.373 -15.731  22.593  1.00  0.00           H  
+HETATM   32  HN2 32U H1000      16.552  -9.888  21.180  1.00  0.00           H  
+HETATM   33  H31 32U H1000      20.819 -13.264  19.628  1.00  0.00           H  
+HETATM   34  H32 32U H1000      20.957 -12.246  21.055  1.00  0.00           H  
+HETATM   35  HN1 32U H1000      16.549 -16.883  23.506  1.00  0.00           H  
+HETATM   36  H2  32U H1000      15.679 -15.479  23.622  1.00  0.00           H  
+HETATM   37  H3  32U H1000      16.119 -16.051  22.144  1.00  0.00           H  
+HETATM   38 H331 32U H1000      17.456 -14.492  25.244  1.00  0.00           H  
+HETATM   39 H332 32U H1000      18.083 -16.104  25.101  1.00  0.00           H  
+HETATM   40 H241 32U H1000      14.729  -9.161  19.941  1.00  0.00           H  
+HETATM   41 H242 32U H1000      14.389 -10.764  19.329  1.00  0.00           H  
+HETATM   42  H41 32U H1000      20.155 -14.099  22.167  1.00  0.00           H  
+HETATM   43  H42 32U H1000      19.351 -14.743  20.733  1.00  0.00           H  
+HETATM   44  H8  32U H1000      18.987 -12.682  25.598  1.00  0.00           H  
+HETATM   45  H26 32U H1000      13.091 -12.379  20.786  1.00  0.00           H  
+HETATM   46  H9  32U H1000      21.268 -11.815  25.765  1.00  0.00           H  
+HETATM   47  H27 32U H1000      11.311 -12.552  22.521  1.00  0.00           H  
+HETATM   48  H10 32U H1000      23.206 -13.268  25.137  1.00  0.00           H  
+HETATM   49  H11 32U H1000      22.804 -15.597  24.373  1.00  0.00           H  
+HETATM   50  H12 32U H1000      20.485 -16.456  24.153  1.00  0.00           H  
+HETATM   51  H30 32U H1000      13.953  -8.362  22.101  1.00  0.00           H  
+HETATM   52  H28 32U H1000      10.845 -10.630  24.028  1.00  0.00           H  
+CONECT    1    2   14    3
+CONECT    2    1    5    7   28
+CONECT    3    1    8    4
+CONECT    3    4
+CONECT    4    3
+CONECT    4    3
+CONECT    5    2    6    9
+CONECT    5    6
+CONECT    6    5
+CONECT    6    5
+CONECT    7    2   10   29   30
+CONECT    8    3   11   12   31
+CONECT    9    5   13   32
+CONECT   10    7   14   33   34
+CONECT   11    8   35   36   37
+CONECT   12    8   15   38   39
+CONECT   13    9   16   40   41
+CONECT   14    1   10   42   43
+CONECT   15   12   17   25
+CONECT   15   25
+CONECT   16   13   18   26
+CONECT   16   26
+CONECT   17   15   19   44
+CONECT   17   19
+CONECT   18   16   20   45
+CONECT   18   20
+CONECT   19   17   21   46
+CONECT   19   17
+CONECT   20   18   22   47
+CONECT   20   18
+CONECT   21   19   23   48
+CONECT   21   23
+CONECT   22   20   24   52
+CONECT   22   24
+CONECT   23   21   25   49
+CONECT   23   21
+CONECT   24   22   26   27
+CONECT   24   22
+CONECT   25   15   23   50
+CONECT   25   15
+CONECT   26   16   24   51
+CONECT   26   16
+CONECT   28    2
+CONECT   29    7
+CONECT   30    7
+CONECT   31    8
+CONECT   32    9
+CONECT   33   10
+CONECT   34   10
+CONECT   35   11
+CONECT   36   11
+CONECT   37   11
+CONECT   38   12
+CONECT   39   12
+CONECT   40   13
+CONECT   41   13
+CONECT   42   14
+CONECT   43   14
+CONECT   44   17
+CONECT   45   18
+CONECT   46   19
+CONECT   47   20
+CONECT   48   21
+CONECT   49   23
+CONECT   27   24
+CONECT   50   25
+CONECT   51   26
+CONECT   52   22
+ENDMDL
+END   

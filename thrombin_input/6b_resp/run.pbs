@@ -1,0 +1,30 @@
+#!/bin/bash
+#PBS -r n
+
+##Job settings
+#PBS -m abe
+#PBS -M songlin3@msu.edu
+#PBS -N Opt
+#PBS -o test.out
+#PBS -e test.err
+##Job Configuration
+##Job Resources
+#PBS -l nodes=1:ppn=4
+#PBS -l mem=16GB
+#PBS -l walltime=3:00:00
+
+echo $PBS_O_WORKDIR
+hostname
+date
+
+cd $PBS_O_WORKDIR
+module load Gaussian/g09
+
+which g09
+
+input=esp.com
+output=esp.log
+
+g09 < $input > $output
+
+echo "******** done ********"
