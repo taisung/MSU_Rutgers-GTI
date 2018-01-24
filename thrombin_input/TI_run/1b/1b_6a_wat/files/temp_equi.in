@@ -30,7 +30,7 @@ NVT MD w/No position restraints and PME (sander)
   timask1=':3',
   timask2=':4',
   scmask1='@44,',
-  scmask2='@57,',
+  scmask2='@60,',
   clambda=XXX,
 &end
  &ewald

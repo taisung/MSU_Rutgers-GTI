@@ -1,0 +1,4 @@
+2018/1/24, 
+1. Corrected 1b_6a_MD topo files, 6b_6a_wat topo files; 
+
+2. Added *equi_0.rst files, which were generated from *merged.inpcrd files by running 200ps NPT equilibration to fix the box dimension problem of *merged.inpcrd files.
